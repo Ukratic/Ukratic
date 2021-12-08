@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ukratic
 - 👀 I’m interested in Analytics
-- 🌱 I’m currently learning Python
-- 💞️ No collab atm
-- 📫 Not available now
+- 🌱 I’m currently learning Python, SQL, R
 
 <!---
 Ukratic/Ukratic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
