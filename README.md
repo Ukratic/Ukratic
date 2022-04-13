@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ukratic
-- 👀 I’m interested in Analytics, mainly focusing on Energy and Politics at the moment
+- 👀 I’m interested in Analytics, mainly focusing on Energy and Geopolitical concerns
 - 🌱 I’m currently seeking to improve Python, SQL, R
 - 🤓 My current project is about media bias and choice of headline topics
 
