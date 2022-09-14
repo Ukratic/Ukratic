@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Ukratic
+#### 👋 Hi, I’m @Ukratic
+
+
 - 👀 Mainly focusing on Energy and Security concerns
 - 🤓 My current project is about media bias and choice of headline topics
 
