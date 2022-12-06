@@ -1,7 +1,7 @@
 #### 👋 Hi, I’m @Ukratic
 
 - 🤓 My current personal project is about media bias and choice of headline topics
-- I worked with a team on an analysis of the state of protective forests in Switzerland, using a wide range of data and metrics. [Check it out !](https://github.com/Ukratic/Jedha_fullstack/tree/main/6.%20Protective%20Forests)
+- I worked with a team on an analysis of the state of protective forests in Switzerland, using a wide range of data and metrics. [Check it out !](https://github.com/Ukratic/Protection-Forests)
 
 [My Portfolio](https://ukratic.github.io/)
 <!---
