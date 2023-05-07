@@ -1,6 +1,6 @@
 #### 👋 Hi, I’m @Ukratic -> [My Portfolio](https://ukratic.github.io/)
 
-- 🤓 My current projects are an analysis of bias and choice of headline topics in french media... and a sock puppet library! More coming soon.
+- 🤓 My current personal projects are split between a focus on OSINT investigations and LoRaWan development. More coming soon.
 - 🌲 I worked with a team on an analysis of the state of protective forests in Switzerland, using a wide range of data and metrics. <br>
 [Check it out !](https://github.com/Ukratic/Protection-Forests)
 - 🏫 My projects for the Jedha Bootcamp certification are [here](https://github.com/Ukratic/Jedha_fullstack).
